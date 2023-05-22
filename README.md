@@ -7,4 +7,7 @@ I'm currently a front-end developer
 🧠 I'm currently learning C++
 
 ## 🛠 Skills
-Javascript, HTML, CSS, Sass, C++, Git
+HTML, CSS
+
+## Minimum
+Javascript, Sass, C++, Git
