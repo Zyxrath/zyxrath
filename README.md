@@ -1,5 +1,5 @@
 ## 🚀 About Me
-I'm a full stack developer
+I'm currently a front-end developer
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zyxrath)](https://github.com/anuraghazra/github-readme-stats)
 
